@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../web_crawler/original_webcrawlers"
+		}
+	],
+	"settings": {}
+}
